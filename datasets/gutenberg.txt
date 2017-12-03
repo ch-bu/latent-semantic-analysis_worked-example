@@ -1,0 +1,5 @@
+In cognitive psychology, cognitive load refers to the total amount of mental effort being used in the working memory.
+Cognitive load theory was developed out of the study of problem solving by John Sweller in the late 1980s.
+Sweller argued that instructional design can be used to reduce cognitive load in learners.
+Cognitive load theory differentiates cognitive load into three types: intrinsic, extraneous, and germane.
+John goes to school.
